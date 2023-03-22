@@ -11,6 +11,7 @@ Output: ![image](https://user-images.githubusercontent.com/58079264/226988936-c9
 
 
    bedrooms  bathrooms  sq_ft  neighborhood  price
+   
 0         3        1.0   1180             2  221.9
 1         3        2.0   2570             3  538.0
 2         2        1.0    770             2  180.0
